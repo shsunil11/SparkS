@@ -1,0 +1,13 @@
+Go to
+/home/cloudera/git/SparkS/target 
+
+Then Run
+spark-submit --class  com.aaa.ScalaS.WC StreamS-0.0.1-SNAPSHOT.jar 
+
+
+git steps
+==================
+/home/cloudera/git/SparkNRT>git  remote add origin https://github.com/shsunil11/SparkNRT.git
+/home/cloudera/git/SparkNRT>git remote set-url origin https://shsunil11@github.com/shsunil11/SparkNRT.git
+/home/cloudera/git/SparkNRT>git push -u origin master
+
